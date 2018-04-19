@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="player3" type="id" />
+    <item name="player4" type="id" />
+    <item name="player5" type="id" />
+    <item name="player6" type="id" />
+    <item name="player7" type="id" />
+    <item name="player8" type="id" />
+</resources>
